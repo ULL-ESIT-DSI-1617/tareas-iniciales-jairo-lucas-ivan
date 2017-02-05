@@ -18,6 +18,11 @@ This is the summary of my book.
 * [Despliegue en Gitbook](capitulos/section3/README.md)
     * [Elaboración y distintas salidas](capitulos/section3/example1.md)
 
+* [Pandoc](capitulos/pandoc/part1.md)
+    * [¿Qué es?](capitulos/pandoc/part1.md)
+    * [Instalacion](capitulos/pandoc/part2.md)
+    * [Utilizacion](capitulos/pandoc/part3.md)
+
 * [NodeJS](capitulos/section4/example1.md)
     * [¿Qué es?](capitulos/section4/example1.md)
         * [Instalacion](capitulos/section4/example1.md)
