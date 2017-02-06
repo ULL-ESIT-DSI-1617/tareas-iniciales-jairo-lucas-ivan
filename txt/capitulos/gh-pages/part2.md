@@ -1,6 +1,6 @@
 > ####  ¿Cómo se utilizan?
 > ***1. Crear un archivo index***
-    Dentro de github.com creamos un nuevo repositorio o vamos a uno ya existente. hacemos click en *Create a new file*. 
+    Dentro de github.com creamos  un nuevo repositorio o vamos a uno ya existente. hacemos click en *Create a new file*. 
 
 > ***2. Escribimos el contenido del archivo***
     Debemos llamar a dicho archivo *index.html*. Escribimos codigo HTML en él.
