@@ -3,7 +3,7 @@
     Dentro de github.com creamos un nuevo repositorio o vamos a uno ya existente. hacemos click en *Create a new file*. 
 
 > ***2. Escribimos el contenido del archivo***
-    Debemos llamar a dicho archivo *idex.html*. Escribimos codigo HTML en él.
+    Debemos llamar a dicho archivo *index.html*. Escribimos codigo HTML en él.
 
 > ***3. Escribimos el commit del archivo***
     Bajamos hasta la parte baja de la pagina, escribimos un mensaje de commit y hacemos click en *Commit new file*.
