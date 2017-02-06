@@ -18,7 +18,7 @@ This is the summary of my book.
 * [Despliegue en Gitbook](capitulos/section3/README.md)
     * [Elaboración y distintas salidas](capitulos/section3/example1.md)
 
-* [NodeJS](capitulos/section4/example1.md)
+* [NodeJS](capitulos/node_js/part1.md)
     * [¿Qué es?](capitulos/section4/example1.md)
         * [Instalacion](capitulos/section4/example1.md)
     * [Comprobación npm](capitulos/section4/example2.md)
