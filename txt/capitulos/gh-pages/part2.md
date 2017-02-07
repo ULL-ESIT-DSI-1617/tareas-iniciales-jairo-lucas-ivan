@@ -1,4 +1,6 @@
 > ####  ¿Cómo se utilizan?
+> ### Hay diferentes opciones
+## 1
 > ***1. Crear un archivo index***
     Dentro de github.com creamos  un nuevo repositorio o vamos a uno ya existente. hacemos click en *Create a new file*. 
 
@@ -14,3 +16,34 @@
 > ***5. Y hemos acabado***
     Si escribimos en un navegador  la dirección *http://nombredeusuario.github.io/repositorio* tendremos la pagina web de nuestro proyecto.
   
+## 2
+
+> ***1. Crear una nueva rama en consola ```bash git checkout -b gh-pages```*** 
+
+> ***2. Borrar los archivos innecesarios,dejar solo los que aparecen en el directorio  _book***
+
+> ***3. Subimos los cambios a Github y escribimos en el navegador la dirección *http://nombredeusuario.github.io/repositorio* tendremos la pagina web de nuestro proyecto.***
+
+## 3 
+
+> ***1. Instalar el paquete npm de gh-pages***
+
+> ***2. Crear el fichero deploy.js y escribir lo siguiente***
+
+```javascript
+var ghpages = require('gh-pages');
+var path = require('path');
+ 
+ghpages.publish(path.join(__dirname, '_book'), function(err) { 
+    console.log("exito"); 
+    
+});
+
+```
+> ***3. Cada vez que se quiera actualizar y publicar la gh-pages se escribe en linea
+de comandos lo siguiente***
+
+```bash 
+node deploy.js
+
+```

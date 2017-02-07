@@ -15,8 +15,8 @@ This is the summary of my book.
     * [¿Qué son?](capitulos/gh-pages/part1.md)
     * [Como se utilizan](capitulos/gh-pages/part2.md)
 
-* [Despliegue en Gitbook](capitulos/section3/README.md)
-    * [Elaboración y distintas salidas](capitulos/section3/example1.md)
+* [Despliegue en Gitbook](capitulos/despliegue_gitbook/part1.md)
+    * [Pasos para desplegar libro](capitulos/despliegue_gitbook/part1.md)
 
 
 * [Pandoc](capitulos/pandoc/part1.md)

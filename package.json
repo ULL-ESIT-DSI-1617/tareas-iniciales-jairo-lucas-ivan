@@ -1,0 +1,22 @@
+{
+  "name": "tareas-iniciales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-jairo-lucas-ivan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-jairo-lucas-ivan/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-jairo-lucas-ivan#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
