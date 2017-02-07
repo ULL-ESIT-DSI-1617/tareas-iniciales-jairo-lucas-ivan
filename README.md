@@ -10,7 +10,7 @@ para impartir la asignatura de DSI
 
 A continuación se muestra un video resumen de los diferentes capitulos que tiene el libro
 
-
+![](../../imagenes/video1.gif)
 
 
 ## Enlaces 
