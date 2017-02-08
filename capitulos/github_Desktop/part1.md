@@ -8,3 +8,4 @@ Si elige la opción de Windows,en el equipo de Descargas de carpetas, haga doble
 Después de que el programa ha sido instalado, haga clic en Ejecutar .
 4.Por último  utiliza la dirección de correo electrónico que configure en la 
 configuración de Git local para conectarse con su cuenta de GitHub o GitHub Enterprise y ya pofrá tabajar desde Github Desktop.
+
