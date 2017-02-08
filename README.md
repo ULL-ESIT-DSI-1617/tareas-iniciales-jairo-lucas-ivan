@@ -10,12 +10,12 @@ para impartir la asignatura de DSI
 
 A continuación se muestra un video resumen de los diferentes capitulos que tiene el libro
 
-![](../../imagenes/video1.gif)
+![gif](txt/gif/video.GIF)
 
 
 ## Enlaces 
 
-* [Enlace a Gh-pages]()
+* [Enlace a Gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-jairo-lucas-ivan/)
 * [Enlace a Gitbook]()
 * [Enlace a instrucciones de la práctica]()
 * [Enlace a repositorio de la práctica]()

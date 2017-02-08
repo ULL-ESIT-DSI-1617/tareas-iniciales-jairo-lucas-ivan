@@ -2,4 +2,4 @@
 
 ## Tutorial Tareas Iniciales dsi
 
-![](../../imagenes/video.gif)
+![gif](gif/video.GIF)
