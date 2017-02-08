@@ -10,7 +10,7 @@
 
 > ![](../../imagenes/node_js/ejecucion-node.png)
 
-> Junto a NodeJS también se instalará el gestor de paquetes para NodeJS denominado **NPM**. Para comprobar que ha sido instalado correctamente ejecutamos lo siguiente en una terminal:
+> Junto a NodeJS también se instalará el gestor de paquetes para NodeJS denominado **NPM.** Para comprobar que ha sido instalado correctamente ejecutamos lo siguiente en una terminal:
 
 > ![](../../imagenes/node_js/npm-v.png)
 
