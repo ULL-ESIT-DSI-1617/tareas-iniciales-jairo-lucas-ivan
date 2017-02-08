@@ -16,12 +16,20 @@ para que estos carateres se puedan ver bien tenemos que coloacar la opcion -s en
 ```$ pandoc nuevo.md -s -o nuevo.html```, el html creado se relaizara de la siguiente manera.
 > ![](../../imagenes/pandoc/pandoc3_4.png)
 
-> ## Mas comandos
+> ##### Otras Posibilidades de Conversiones
 
-> Para pasar de markdown a pdf, el comando es el siguiente ```$ pandoc nuevo.md -s -o nuevo.html``` dando como 
+> ``` Nota: Para realizar las siguiente conversione hay que instalar : ``` [Latex](https://miktex.org/download "Latex").
+
+> Para pasar de markdown a pdf, el comando es el siguiente ```$ pandoc nuevo.md -o nuevo.pdf``` dando como 
   resultado la siguiente imagen:
 
-> Para pasar de markdown a pdf, el comando es el siguiente ```$ pandoc nuevo.md -s -o nuevo.html``` dando como 
+> ![](../../imagenes/pandoc/pandoc3_5.png)
+  
+
+> Para pasar de markdown a latex, el comando es el siguiente ```$  pandoc nuevo.md -f markdown -t latex -s -o nuevo.tex``` dando como 
   resultado la siguiente imagen:
+  
+> ![](../../imagenes/pandoc/pandoc3_6.png)
+
 
 
