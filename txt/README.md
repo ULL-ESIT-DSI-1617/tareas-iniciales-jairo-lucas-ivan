@@ -1,5 +1,5 @@
-# Introduction
+# Introducción
 
-## Tutorial Tareas Iniciales dsi
+## Tutorial Tareas Iniciales DSI
 
 ![gif](gif/video.GIF)
