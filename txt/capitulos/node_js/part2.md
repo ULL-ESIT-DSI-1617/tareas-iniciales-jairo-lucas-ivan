@@ -6,7 +6,7 @@
 
 > ![](../../imagenes/node_js/descargas.png)
 
-> Ahora, en la parte inferior de la página hacemos click sobre **Instale Node.js mediante un manejador de paquetes**.
+> Ahora, en la parte inferior de la página hacemos click sobre **Instale Node.js mediante un manejador de paquetes.**
 
 > ![](../../imagenes/node_js/instalar_mediante.png)
 
