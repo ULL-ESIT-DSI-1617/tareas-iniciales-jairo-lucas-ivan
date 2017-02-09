@@ -8,6 +8,11 @@ This is the summary of my book.
     * [Markdown](capitulos/gitbook/part3.md)
 
 
+* [Github](capitulos/github/part1.md)
+    * [Crear cuenta](capitulos/gitbook/part1.md)
+    * [Crear Proyecto](capitulos/github/part2.md)
+    * [Gestion de un proyecto](capitulos/github/part3.md)
+
 * [Github Desktop](capitulos/section6/example1.md)
     * [Instalación](capitulos/section6/example1.md)
 
