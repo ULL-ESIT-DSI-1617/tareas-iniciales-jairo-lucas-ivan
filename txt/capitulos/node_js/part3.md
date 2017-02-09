@@ -1,4 +1,4 @@
-> ## Comprobación del funcionamiento
+> ### Comprobación del funcionamiento
 
 > Para comprobar que NodeJS se ha instalado correctamente podemos ejecutar lo siguiente en una terminal:
 

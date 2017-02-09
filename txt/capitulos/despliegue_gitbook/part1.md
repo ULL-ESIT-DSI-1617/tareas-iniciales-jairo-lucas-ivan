@@ -1,4 +1,5 @@
-> . Despliegue en Gitbook 
+ ## Despliegue en Gitbook 
+> ### Pasos para desplegar el libro
 > ![](../../imagenes/gitbook.PNG)
 
 >  GitBook está implementando usando node.js, podemos instalarlo usando NPM:
@@ -17,27 +18,27 @@ para extraer metadatos del documento.
   
 > Para sincronizar el libro que se está realizando con Gitbook se utiliza los siguientes comandos:
 
-* Acceder a gitbook una vez registrados y crear un libro
+> * Acceder a gitbook una vez registrados y crear un libro
 
-* ![](../../imagenes/6.PNG) 
-  ![](../../imagenes/7.PNG)
+> * ![](../../imagenes/6.PNG) 
+>   ![](../../imagenes/7.PNG)
  
-* Copiamos la dirección que aparece
+> * Copiamos la dirección que aparece
 > ![](../../imagenes/8.PNG)
 
-* Después de copiar la dirección nos vamos a la terminal y hacemos lo siguiente para publicar el libro en Gitbook que estamos realizando:
+> * Después de copiar la dirección nos vamos a la terminal y hacemos lo siguiente para publicar el libro en Gitbook que estamos realizando:
 
 ```bash
 git remote add gb https://git.gitbook.com/alu0100785265/tarea-inicial.git
 
 ```
-y luego el comando 
+> y luego el comando 
 
 ```bash 
 git push --force gb master
 
 ```
-Con esto conseguimos que el libro que está en gitbook esté actualizado,,cada vez que introduzcas nueva información al libro tendrás 
+> Con esto conseguimos que el libro que está en gitbook esté actualizado,,cada vez que introduzcas nueva información al libro tendrás 
 que usar los comandos 
 
 ```bash 
@@ -45,7 +46,7 @@ gitbook build
 
 ```
 
-y el comando siguiente para subir los cambios
+> y el comando siguiente para subir los cambios
 
 ```bash 
 git push  gb master

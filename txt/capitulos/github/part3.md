@@ -1,4 +1,4 @@
-### Gestion de un proyecto
+> ### Gestion de un proyecto
 > pestaña code : aqui se puede visualizar el codigo de todos los ficheros
 > pestaña issues : se utiliza para gestionar las incidencias que existen en el proyecto
 > pestaña pull request : En esta pestaña van dejando peticion o propuesta de colaboracion en el proyecto
@@ -9,4 +9,3 @@
 > pestaña setting : Aqui salen opciones de comunicacion y propiedades del proyecto como pueden ser:
 > option , colaboradores , branches , webhooks , integration and service , deploy key
 > ![](imagenes/github/6_ventanalogeado.png)
->

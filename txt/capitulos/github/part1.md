@@ -1,4 +1,5 @@
-### Pasos creacion cuenta en github
+## Github
+> ### Pasos creacion cuenta en github
 > 1) El primer paso sera dirigirse a la web de www.github.com y hacer click en el boton donde pone sign up
 > 2) Se abrirá una ventana donde podras rellenar un formulario con su nombre,correo y contraseña
 > ![](imagenes/github/4_formularioregistro.png) (4)

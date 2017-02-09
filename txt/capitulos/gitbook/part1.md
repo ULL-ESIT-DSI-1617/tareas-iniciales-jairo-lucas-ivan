@@ -1,4 +1,4 @@
-> #### 1. Gitbook 
+## Gitbook 
 
 > ![](../../imagenes/1.PNG)
 

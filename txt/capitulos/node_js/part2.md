@@ -1,4 +1,4 @@
-> ## Descarga e instalación
+> ### Descarga e instalación
 
 > Para proceder a la descarga de **NodeJS** , hemos de dirigirnos a su [página web](www.nodejs.org).
 
