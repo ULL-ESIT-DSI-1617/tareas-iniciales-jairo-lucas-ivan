@@ -11,7 +11,7 @@
 
 > ![](../../imagenes/github/5publicoprivado.png)
 
-> 5) Al final podras elegir entre enviar la encuesta o saltarte el paso.
+> 5) Al final podras elegir entre enviar la encuesta o saltarte el paso..
 
 > ![](../../imagenes/github/2encuesta.png)
 
