@@ -17,7 +17,7 @@ A continuación se muestra un video resumen de los diferentes capitulos que tien
 
 * [Enlace a Gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-jairo-lucas-ivan/)
 * [Enlace a Gitbook](https://www.gitbook.com/book/alu0100785265/tarea-inicial/details)
-* [Enlace a instrucciones de la práctica]()
+* [Enlace a instrucciones de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html)
 * [Enlace a repositorio de la práctica](https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-jairo-lucas-ivan.git)
 
 
