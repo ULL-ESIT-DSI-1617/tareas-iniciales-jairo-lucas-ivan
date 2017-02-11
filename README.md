@@ -22,3 +22,5 @@ A continuación se muestra un video resumen de los diferentes capitulos que tien
 
 
 ## Páginas personales
+
+* [Iván González Aguiar](https://ivan-ga.github.io/)
