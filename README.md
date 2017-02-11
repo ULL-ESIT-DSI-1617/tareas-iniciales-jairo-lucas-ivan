@@ -5,10 +5,10 @@
 
 ### Introducción
 
-En esta práctica nos disponemos a realizar un tutorial en Gitbook sobre diferentes temas que serán necesarios
-para impartir la asignatura de DSI
+En esta práctica se ha realizado un tutorial en Gitbook sobre diferentes herramientas que serán necesarias
+en el transcurso de la asignatura de Desarrollo de Sistemas Informáticos.
 
-A continuación se muestra un video resumen de los diferentes capitulos que tiene el libro
+A continuación se muestra un video resumen de los diferentes capitulos de los que dispone el libro
 
 ![gif](txt/gif/video.GIF)
 
