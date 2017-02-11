@@ -24,3 +24,4 @@ A continuación se muestra un video resumen de los diferentes capitulos de los q
 ## Páginas personales
 
 * [Iván González Aguiar](https://ivan-ga.github.io/)
+* [Miguel Parra Esquivel](https://alu0100200393.github.io/)
