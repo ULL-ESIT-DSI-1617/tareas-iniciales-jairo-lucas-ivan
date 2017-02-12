@@ -1,4 +1,4 @@
-> ###  Markdown ![](../../icons/markdo.PNG)
+> ###  Markdown 
 
 > Markdown es un lenguaje de marcado ligero creado por John Gruber que 
 trata de conseguir la máxima legibilidad y facilidad de publicación tanto en

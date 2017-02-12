@@ -1,6 +1,6 @@
 ## Gitbook 
 
-> ![](../../imagenes/1.PNG)
+> ![](../../imagenes/gitbook/1.PNG)
 
 > ### ¿Qué es?  
 

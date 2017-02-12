@@ -3,7 +3,7 @@
 
 > Una vez ahí, rellenamos el formulario de registro que aparecerá en la pantalla de inicio:
 
-> ![](../../imagenes/registro-git-book.png)
+> ![](../../imagenes/gitbook/registro-git-book.png)
 
 > Deberás rellenar el formulario con la siguiente información:
 

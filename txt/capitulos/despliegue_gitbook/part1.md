@@ -19,11 +19,11 @@ para extraer metadatos del documento.
 
 > * Acceder a gitbook una vez registrados y crear un libro
 
-> * ![](../../imagenes/6.PNG) 
->   ![](../../imagenes/7.PNG)
+> * ![](../../imagenes/despliegue_gitbook/6.PNG) 
+>   ![](../../imagenes/despliegue_gitbook/7.PNG)
  
 > * Copiamos la dirección que aparece
-> ![](../../imagenes/8.PNG)
+> ![](../../imagenes/despliegue_gitbook/8.PNG)
 
 > * Después de copiar la dirección nos vamos a la terminal y hacemos lo siguiente para publicar el libro en Gitbook que estamos realizando:
 
