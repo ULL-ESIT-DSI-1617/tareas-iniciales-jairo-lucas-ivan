@@ -14,8 +14,9 @@
     En la pestaña *Settings* vamos a la sección GitHub Pages, seleccionamos la rama master como fuente y guardamos.
 
 > ***5. Y hemos acabado***
-    Si escribimos en un navegador  la dirección *http://nombredeusuario.github.io/repositorio* tendremos la pagina web de nuestro proyecto.
-  
+    Si escribimos en un navegador  la dirección 
+    *http://nombredeusuario.github.io/repositorio* tendremos la pagina web de nuestro proyecto.
+    [](https://ull-esit-dsi-1617.github.io/tareas-iniciales-jairo-lucas-ivan/)
 > ##### Opción 2
 
 > ***1. Crear una nueva rama en consola ```bash git checkout -b gh-pages```*** 
