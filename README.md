@@ -26,3 +26,4 @@ A continuación se muestra un video resumen de los diferentes capitulos de los q
 * [Iván González Aguiar](https://ivan-ga.github.io/)
 * [Miguel Parra Esquivel](https://alu0100200393.github.io/)
 * [Jairo González Lemus](https://alu0100813272.github.io/)
+* [José Lucas Ruiz Glez](https://alu0100785265.github.io/)
