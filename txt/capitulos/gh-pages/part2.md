@@ -1,4 +1,4 @@
-> ###  ¿Cómo se utilizan?
+> ###  Utilización
 > #### Hay diferentes opciones
 > ##### Opción 1
 > ***1. Crear un archivo index***

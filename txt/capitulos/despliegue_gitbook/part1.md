@@ -1,6 +1,5 @@
  ## Despliegue en Gitbook 
 > ### Pasos para desplegar el libro
-> ![](../../imagenes/gitbook.PNG)
 
 >  GitBook está implementando usando node.js, podemos instalarlo usando NPM:
 

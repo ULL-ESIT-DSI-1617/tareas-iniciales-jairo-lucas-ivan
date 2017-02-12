@@ -1,4 +1,4 @@
-### Creacion de un proyecto
+> ### Crear Proyecto
 
 > 1) Arriba a la derecha despues del logueo hay un simbolo mas donde puedes crear un nuevo proyecto. 
 
