@@ -19,7 +19,7 @@ A continuación se muestra un video resumen de los diferentes capitulos de los q
 * [Enlace a Gitbook](https://www.gitbook.com/book/alu0100785265/tarea-inicial/details)
 * [Enlace a instrucciones de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html)
 * [Enlace a repositorio de la práctica](https://github.com/ULL-ESIT-DSI-1617/tareas-iniciales-jairo-lucas-ivan.git)
-
+* [Enlace a página asignatura](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
 
 ## Páginas personales
 
